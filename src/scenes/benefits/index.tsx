@@ -1,5 +1,5 @@
 import { SelectedPage } from "@/shared/types"
-import { AcademicCapIcon, HomeModernIcon, UserGroupIcon } from "@heroicons/react/24/solid"
+// import { AcademicCapIcon, HomeModernIcon, UserGroupIcon } from "@heroicons/react/24/solid"
 import { motion } from "framer-motion"
 
 

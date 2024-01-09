@@ -1,7 +1,6 @@
 import ActionButton from '@/shared/ActionButton'
 import { SelectedPage } from '@/shared/types'
 import { useMediaQuery } from '@mui/material'
-import React from 'react'
 import HomePageText from "@/assets/HomePageText.png"
 import HomePageGraphic from "@/assets/HomePageGraphic.png"
 import SponsorRedBull from "@/assets/SponsorRedBull.png"
