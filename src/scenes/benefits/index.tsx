@@ -8,7 +8,7 @@ type Props = {
 }
 
 
-const Benefits = ({ setSelectedPage }: props) => {
+const Benefits = ({ setSelectedPage }: Props) => {
     return (
         <section
             id="benefits"
@@ -18,7 +18,7 @@ const Benefits = ({ setSelectedPage }: props) => {
                 onViewportEnter={() => setSelectedPage(SelectedPage.Benefits)}
             >
                 <div>
-                    
+
                 </div>
             </motion.div>
         </section>
